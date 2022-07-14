@@ -1,6 +1,6 @@
 # Ross_Instalation
 ## Instal linux
-It is necessary to provide the required environment for the installation of Ross, which is Linux. With Linux, you have two options: either you download it into your computer or you use a virtual machine. In this case, a virtual box will be used. Below are the steps for downloading Linux using Virtual Box.
+It is necessary to provide the required environment for the installation of Ross, which is Linux. With Linux, you have two options: either you  Fully download it into your computer or by use a virtual machine. In this case, a virtual box will be used. Below are the steps for downloading Linux using Virtual Box.
 
 * visit The following website.
 ```
@@ -10,14 +10,14 @@ https://www.virtualbox.org/
 ```
 Downloads>windows hosts
 ```
-* Visit the following website and download ubentu 20.04 the Desktop image virsion.
+* Visit the following website and download ubuntu 20.04 the Desktop image virsion.
 ```
 https://releases.ubuntu.com/20.04/
 ```
-* Install Virtualbox by normally presseing next.
-* From the main Virtualbox page press new and add a proprite name and location for the virtual box machine.
-* Choose the virtual box machine and prees Settings>Storage.
-* Press emptiy and alocate the upento 20.04.
+* Install Virtualbox by normally pressing next.
+* From the main Virtualbox, page press new and add a appropriate name and location for the virtual box machine.
+* Choose the virtual box machine and press Settings>Storage.
+* Press empty and allocate the ubuntu 20.04.
 ## Install Ross
 ### Configure your Ubuntu repositories
 The following commands must be typed inside the Linux terminal in order to install Ross.
