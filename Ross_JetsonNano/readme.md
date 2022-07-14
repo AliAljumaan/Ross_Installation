@@ -9,8 +9,6 @@
 
 after we download both Should be write xubuntu to flash or card useing balena
 
-![Alt Text](https://www.balena.io/static/steps-8006dca57323756b1b84fb9408742409.gif)
-
 ## ros2 install
 
 
