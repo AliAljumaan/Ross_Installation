@@ -14,8 +14,7 @@ Downloads>windows hosts
 ```
 https://releases.ubuntu.com/20.04/
 ```
-* Then reguarly install Virtualbox.
+* Install Virtualbox by normally presseing next.
 * From the main Virtualbox page press new and add a proprite name and location for the virtual box machine.
 * Choose the virtual box machine and prees Settings>Storage.
 * Press emptiy and alocate the upento 20.04.
-
