@@ -1,5 +1,5 @@
-# Ross_Instalation
-## Instal linux
+# Ross_Insttalation
+## Insttal linux
 It is necessary to provide the required environment for the installation of Ross, which is Linux. With Linux, you have two options: either you  Fully download it into your computer or by use a virtual machine. In this case, a virtual box will be used. Below are the steps for downloading Linux using Virtual Box.
 
 * visit The following website.
